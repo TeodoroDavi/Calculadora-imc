@@ -1,0 +1,19 @@
+// instalar o expo CLI
+npm i -g expo -cli
+
+//criar um projeto pelo expoCLI
+npx crate-expo-app "nome do prj" --template blank 
+
+//executar/emular o projeto
+npx expo start --tunnel 
+//tunnel só é necessário quando o celular não está na mesma rede
+
+/. Pra emular pra navegador, habilitar no terminal
+   press w
+   vai gerar o comando para a install
+   executar comando gerado 
+   depois press w dnv
+     
+
+
+
